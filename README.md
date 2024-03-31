@@ -1,3 +1,5 @@
+https://app.koyeb.com/deploy?type=git&repository=https://github.com/AkdBadsha/tg-index&branch=koyeb&name=master
+
 # Telegram Index
 
 > Python Web App which indexes a telegram channel(or a chat) and serves its files for download.
