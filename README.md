@@ -1,4 +1,4 @@
-https://app.koyeb.com/deploy?type=git&repository=https://github.com/AkdBadsha/tg-index&branch=koyeb&name=master
+https://app.koyeb.com/deploy?type=git&repository=https://github.com/AkdBadsha/tg-index&branch=master&name=master
 
 # Telegram Index
 
